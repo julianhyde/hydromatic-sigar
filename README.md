@@ -22,24 +22,15 @@ limitations under the License.
 
 Binaries for [Hyperic Sigar](https://github.com/hyperic/sigar).
 
+*This project is obsolete. We recommend that you use
+[Sigar Loader](https://github.com/kamon-io/sigar-loader)
+instead.*
+
 ## Requirements
 
 Java version 8 or higher.
 
 ## Get Hydromatic Sigar
-
-### From Maven
-
-Get Hydromatic Sigar from
-<a href="https://search.maven.org/#search%7Cga%7C1%7Cg%3Anet.hydromatic%20a%3Asigar">Maven Central</a>:
-
-```xml
-<dependency>
-  <groupId>net.hydromatic</groupId>
-  <artifactId>sigar</artifactId>
-  <version>0.1</version>
-</dependency>
-```
 
 ### Download and build
 
